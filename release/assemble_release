@@ -1,0 +1,10 @@
+echo Creating release file structure...
+mkdir -p GameData/JX2Antenna
+cp ../files/changelog.txt GameData/JX2Antenna
+cp ../files/*.mu GameData/JX2Antenna
+cp ../files/*.cfg GameData/JX2Antenna
+cp ../files/*.dds GameData/JX2Antenna
+cp ../LICENSE GameData/JX2Antenna
+cp ../README.md GameData/JX2Antenna
+cp -R ../files/Patches GameData/JX2Antenna
+echo Done.

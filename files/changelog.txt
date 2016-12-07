@@ -1,0 +1,7 @@
+Version 1.0  (CURRENT VERSION)
+* Initial release.
+* Includes JX2 Large Deployable Antenna.
+* Includes patch for IndicatorLights.
+* Includes patch for RemoteTech.
+* Includes patch for OPM.
+
