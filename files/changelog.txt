@@ -1,4 +1,8 @@
-Version 1.0  (CURRENT VERSION)
+Version 1.1  (CURRENT VERSION)
+* Add patch for Galileo's Planet Pack.
+
+
+Version 1.0  (2016-12-16)
 * Initial release.
 * Includes JX2 Large Deployable Antenna.
 * Includes patch for IndicatorLights.
