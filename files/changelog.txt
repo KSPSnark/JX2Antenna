@@ -1,4 +1,10 @@
-Version 1.1  (CURRENT VERSION)
+Version 2.0  (CURRENT VERSION)
+* Two new antennas!  Meet the JU1 relay and the JW1 direct.
+* Texture update for the JX2. Twice the flags at no additional cost.
+* KSP 1.3 compatibility.
+
+
+Version 1.1  (2017-02-08)
 * Add patch for Galileo's Planet Pack.
 
 
