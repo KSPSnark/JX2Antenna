@@ -1,4 +1,8 @@
-Version 2.0  (CURRENT VERSION)
+Version 2.0.1  (CURRENT VERSION)
+* Fix a bug in the RemoteTech compatibility patch. Thanks to Starman4308 on the KSP forums for catching!
+
+
+Version 2.0  (2017-06-14)
 * Two new antennas!  Meet the JU1 relay and the JW1 direct.
 * Texture update for the JX2. Twice the flags at no additional cost.
 * KSP 1.3 compatibility.
