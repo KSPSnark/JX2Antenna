@@ -1,4 +1,8 @@
-Version 2.0.2  (CURRENT VERSION)
+Version 2.0.3  (CURRENT VERSION)
+* Update the OPM patch, since OPM has changed how it handles antenna ranges.
+
+
+Version 2.0.2  (2017-06-24)
 * Fix a bug in the model files that was causing KSP to hang on ship launch if there are more than one JX2 antenna on the ship.
 * Thanks to Chimichanga on the KSP forums for catching!
 
