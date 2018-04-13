@@ -1,5 +1,10 @@
-Version 2.0.3  (CURRENT VERSION)
+Version 2.0.4  (CURRENT VERSION)
+* Fix the OPM compatibility patch (again)-- it was causing NRE spam for certain other mods.
+
+
+Version 2.0.3  (2018-04-11)
 * Update the OPM patch, since OPM has changed how it handles antenna ranges.
+* DEPRECATED, DO NOT USE. Has a bug in the patch. Use 2.0.4 instead.
 
 
 Version 2.0.2  (2017-06-24)
