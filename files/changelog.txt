@@ -1,4 +1,8 @@
-Version 2.0.4  (CURRENT VERSION)
+Version 2.0.5  (CURRENT VERSION)
+* Update OPM compatibility patch to work with GEP_CommNet.
+
+
+Version 2.0.4  (2018-04-12)
 * Fix the OPM compatibility patch (again)-- it was causing NRE spam for certain other mods.
 
 
